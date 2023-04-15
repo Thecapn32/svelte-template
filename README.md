@@ -1,2 +1,4 @@
-# svelte-template
-Svelte template project
+# 
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i daisyui
